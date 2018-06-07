@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.54",
+    "@babel/preset-env": "^7.0.0-beta.54",
+    "@spockjs/babel-plugin-spock": "^1.0.0-beta.1",
+    "@spockjs/preset-runner-ava": "^1.0.0-beta.1",
+    "ava": "^1.0.0-beta.6",
+    "power-assert": "^1.5.0"
+  }
+}

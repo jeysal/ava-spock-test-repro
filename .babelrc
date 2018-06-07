@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    ["@spockjs/babel-plugin-spock", { "presets": ["@spockjs/preset-runner-ava"] }]
+  ],
+  "presets": ["@babel/preset-env"]
+}
